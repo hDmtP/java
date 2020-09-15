@@ -1,2 +1,2 @@
 # java
-Apache 2.0
+Nothing interesting here
